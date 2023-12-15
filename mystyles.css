@@ -1,0 +1,70 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #e5e9ed;
+    background-size: 3500px;
+    background-image: url(https://research.wri.org/sites/default/files/2020-01/defaultHero.jpg);
+
+    font-size: 15
+    
+    }
+    li {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: normal;
+        display: block;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        font-weight: bolder;
+  
+    }
+a {
+    color: rgb(146, 163, 239);
+}
+
+.MyHobbyHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+img{
+    
+    display: block;
+    padding: 10px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    width: 50%;
+    height: 50%;
+}
+
+div {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.video {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    width: auto;
+    height: auto;
+}
+
+.tableau {
+    
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 35%;
+}
+
+.subheading {
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: left;
+
+}
